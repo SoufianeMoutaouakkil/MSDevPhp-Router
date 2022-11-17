@@ -1,5 +1,5 @@
 {
-    "name": "msdev/ms-router",
+    "name": "msdevphp/router",
     "description": "a simple router wich allows you to resolve a url with/out params and return a SMRoute insatnce",
     "type": "library",
     "license": "MIT",
