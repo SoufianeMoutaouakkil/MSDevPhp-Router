@@ -1,0 +1,22 @@
+{
+    "name": "msdev/ms-router",
+    "description": "a simple router wich allows you to resolve a url with/out params and return a SMRoute insatnce",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "MSDevPhp\\Router\\": "src/",
+            "Test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Soufiane Moutaouakkil",
+            "email": "soufiane.moutaouakkil.ma@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
